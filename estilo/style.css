@@ -46,12 +46,12 @@ body {
 
   .links-container a {
     width: 100%;
-    color: #527eaa !important;
+    color: #6b86a1 !important;
     transition: 0.2s;
   }
 
   .links-container a:hover {
-    opacity: 1;
+    opacity: 5;
   }
 
   .profession {
@@ -65,7 +65,7 @@ body {
   .icons {
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 25px;
   }
 
   .icons a {
@@ -73,7 +73,7 @@ body {
   }
 
   .icons a svg {
-    fill: #373635 !important;
+    fill: #22160a !important;
     transform: scale(1);
   }
 
