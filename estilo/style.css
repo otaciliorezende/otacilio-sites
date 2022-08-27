@@ -6,8 +6,9 @@ body {
   background: linear-gradient(to right, #464f55, #25474df4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 ul > li > a {
+  display: block;
   color: rgba(74, 108, 144, 0.904);
-  padding: 20px;
+  padding: 10px;
 }
 
   .container {
@@ -24,7 +25,7 @@ ul > li > a {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center; 
-    width: 200px;
+    width: 500px;
     height: 200px;
     border-radius: 100%;
     margin: 0 auto;
